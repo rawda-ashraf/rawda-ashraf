@@ -14,7 +14,7 @@
 
 - 🏢 **Al-azhar University - Faculty of Engineering**
 - 👨‍💻 **Aspiring Systems and Computers Engineer**, currently studying full-stack development.
-- 💬 Ask me about programming or anything related to web development.
+- 💬 **Ask me** about programming or anything related to web development.
 - 🎯 **Career Goals**:
   - **Short-term**: Complete the full-stack development diploma.
   - **Long-term**: Explore advanced fields like **AI and ML** and eventually build my own business.
